@@ -8,3 +8,5 @@ User Analysis: It examines total orders, users, ratings, customer churn and acqu
 City Performance Analysis: This segment evaluates sales performance across different cities, identifying top-performing locations and areas with growth potential. Metrics include sales revenue, ratings, and active user counts by city, guiding marketing efforts and expansion strategies.
 
 Sales Analysis: It analyzes sales trends over time, comparing current year sales with previous years and calculating sales growth percentage. By understanding sales patterns and trends, Zomato can make informed decisions to drive revenue growth and improve overall performance.
+
+Project Link:  https://app.powerbi.com/view?r=eyJrIjoiYWM1NWMyYmMtYWY2YS00N2Y5LTlkYTEtY2RmM2ViOGQ0NGNkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection5852814603720ad43185
